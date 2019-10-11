@@ -3,7 +3,7 @@
 
 Welcome to Global Microsoft 365 Developer Bootcamp Mumbai 2019!
 
-Thank you for your presence, Hope you are enjoying the sessions and learning about what coming next :) For your ease, please have a look for more information for your desired sessions in following table:
+Thank you for your presence, Hope you are enjoying the sessions and learning about what is coming next :) For your ease, please have a look for more information on your desired session in following table:
 
 
 | Time | Session Track                              | Presenter              | Link                        |
