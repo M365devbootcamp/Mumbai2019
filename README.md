@@ -15,4 +15,4 @@ Thank you for your presence, Hope you are enjoying the sessions and learning abo
 | 4:00 - 5:30| Building an applications on Microsoft Teams      | Aakash Maurya      | [Link](https://bit.ly/2IGwWec) |
 
  
-Feel free to reach out us on social media for any further queries, Have a great time!
+Feel free to reach out us on social media for any further queries, Have a great time :)
